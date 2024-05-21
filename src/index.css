@@ -1,0 +1,79 @@
+
+*{
+  background-image:url("../src/componentes/imagenes/Diseño-Artículo-Proyectos-17-760x402\ \(1\)\ copia\ 4.jpg");
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+body {
+  background-color: rgb(242, 235, 235);
+ 
+  
+}
+
+.calc{
+  width: 360px;
+  margin: 100px auto;
+  border-radius: 50px;
+  background-color: black;
+  height: 300px;
+
+  
+
+}
+#answer {
+  background-color:rgb(196, 197, 197) ;
+  padding:10px;
+  font-size: 35px;
+  width: 290px;
+  height: 46px;
+  text-align: right;
+  border: 3px solid rgb(224, 212, 212);
+  color:white;
+  border-radius: 50px;
+  overflow-x: auto;
+  border: white 7px outset;
+  -webkit-text-stroke: 1px darkgoldenrod;
+  
+ 
+
+
+}
+
+#answer::placeholder{
+  color:white;
+
+}
+
+.button{
+  
+  -webkit-text-stroke: 1px darkgoldenrod;
+  height: 40px;
+  width: 80px;
+  color: white;
+  border:1px solid white;
+  cursor: pointer;
+  border-color: gray(243, 242, 242);
+  border: white 8px outset;
+  border-radius: 50px;
+  
+  font-size: 18px;
+  font-weight: bolder;
+  justify-content: center;
+  align-content: center;
+
+
+}
+.buton1{
+  width: 160px;
+  background-color:white;
+  color: white;
+  -webkit-text-stroke: 1px darkgoldenrod;
+}
+
+.buton2{
+  -webkit-text-stroke: 1px darkgoldenrod;
+  width: 160px;
+  background-color:white;
+  color: white;
+}
+

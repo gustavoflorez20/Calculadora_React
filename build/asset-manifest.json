@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffab3302.css",
+    "main.js": "/static/js/main.fbd8f810.js",
+    "static/media/Diseño-Artículo-Proyectos-17-760x402 (1) copia 4.jpg": "/static/media/Diseño-Artículo-Proyectos-17-760x402 (1) copia 4.5facc67e8579b78031bc.jpg",
+    "index.html": "/index.html",
+    "main.ffab3302.css.map": "/static/css/main.ffab3302.css.map",
+    "main.fbd8f810.js.map": "/static/js/main.fbd8f810.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffab3302.css",
+    "static/js/main.fbd8f810.js"
+  ]
+}
